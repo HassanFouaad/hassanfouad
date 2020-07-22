@@ -9,7 +9,7 @@ export default function Home() {
       <div className="content1">
         <div className="slide">
           <div id="wholist">
-            <div id="hello">Hey, I'm Hassan</div>
+            <div id="hello">Hey<span class="wave">👋</span> I'm Hassan</div>
             <div id="who">GRAPHIC DESINGER</div>
             <div id="who2">WEB DEVELOPER</div>
           </div>
@@ -65,15 +65,11 @@ export default function Home() {
             <li>CSS</li>
             <li>Javascript</li>
             <li>Node js</li>
+            <li>Git</li>
             <li>Express js</li>
             <li>React js</li>
             <li>MONGO</li>
             <li>Firebase</li>
-          </ul>
-        </div>
-        <div className="lang-i-code">Also</div>
-        <div className="lang">
-          <ul>
             <li>BootStrap</li>
             <li>jQuery</li>
             <li>Semantic UI</li>
@@ -82,6 +78,20 @@ export default function Home() {
             <li>Microsoft Office</li>
           </ul>
         </div>
+        <div className="lang-i-code">Soft Skills</div>
+        <div className="lang">
+          <ul>
+            <li>Enthusiasm</li>
+            <li>Visual Thinking</li>
+            <li>Critical Thinking</li>
+            <li>Communication</li>
+            <li>Collaboration</li>
+            <li>Adaptability</li>
+          </ul>
+        </div>
+      </div>
+      <div className="content5">
+
       </div>
     </div>
   );
