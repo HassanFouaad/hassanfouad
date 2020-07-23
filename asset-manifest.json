@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/hassanfouad/static/css/main.4239772c.chunk.css",
-    "main.js": "/hassanfouad/static/js/main.05c3edb0.chunk.js",
-    "main.js.map": "/hassanfouad/static/js/main.05c3edb0.chunk.js.map",
-    "runtime-main.js": "/hassanfouad/static/js/runtime-main.a4757494.js",
-    "runtime-main.js.map": "/hassanfouad/static/js/runtime-main.a4757494.js.map",
-    "static/css/2.907f042e.chunk.css": "/hassanfouad/static/css/2.907f042e.chunk.css",
-    "static/js/2.a8a9ebca.chunk.js": "/hassanfouad/static/js/2.a8a9ebca.chunk.js",
-    "static/js/2.a8a9ebca.chunk.js.map": "/hassanfouad/static/js/2.a8a9ebca.chunk.js.map",
-    "index.html": "/hassanfouad/index.html",
-    "precache-manifest.b3b9da24d9e1dd1a29023c2ffaae7530.js": "/hassanfouad/precache-manifest.b3b9da24d9e1dd1a29023c2ffaae7530.js",
-    "service-worker.js": "/hassanfouad/service-worker.js",
-    "static/css/2.907f042e.chunk.css.map": "/hassanfouad/static/css/2.907f042e.chunk.css.map",
-    "static/css/main.4239772c.chunk.css.map": "/hassanfouad/static/css/main.4239772c.chunk.css.map",
-    "static/js/2.a8a9ebca.chunk.js.LICENSE.txt": "/hassanfouad/static/js/2.a8a9ebca.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/hassanfouad/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/cat.png": "/hassanfouad/static/media/cat.5b889bb8.png",
-    "static/media/App.css": "/hassanfouad/static/media/labtop.50feb195.jpg",
-    "static/media/me.jpg": "/hassanfouad/static/media/me.c5409773.jpg"
+    "main.css": "/hassanfouad/home/static/css/main.628f5bc5.chunk.css",
+    "main.js": "/hassanfouad/home/static/js/main.314964dc.chunk.js",
+    "main.js.map": "/hassanfouad/home/static/js/main.314964dc.chunk.js.map",
+    "runtime-main.js": "/hassanfouad/home/static/js/runtime-main.284524eb.js",
+    "runtime-main.js.map": "/hassanfouad/home/static/js/runtime-main.284524eb.js.map",
+    "static/css/2.0f845953.chunk.css": "/hassanfouad/home/static/css/2.0f845953.chunk.css",
+    "static/js/2.a8a9ebca.chunk.js": "/hassanfouad/home/static/js/2.a8a9ebca.chunk.js",
+    "static/js/2.a8a9ebca.chunk.js.map": "/hassanfouad/home/static/js/2.a8a9ebca.chunk.js.map",
+    "index.html": "/hassanfouad/home/index.html",
+    "precache-manifest.1b9b5cd6525a8753bc8906c7b2b1bb67.js": "/hassanfouad/home/precache-manifest.1b9b5cd6525a8753bc8906c7b2b1bb67.js",
+    "service-worker.js": "/hassanfouad/home/service-worker.js",
+    "static/css/2.0f845953.chunk.css.map": "/hassanfouad/home/static/css/2.0f845953.chunk.css.map",
+    "static/css/main.628f5bc5.chunk.css.map": "/hassanfouad/home/static/css/main.628f5bc5.chunk.css.map",
+    "static/js/2.a8a9ebca.chunk.js.LICENSE.txt": "/hassanfouad/home/static/js/2.a8a9ebca.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/hassanfouad/home/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/cat.png": "/hassanfouad/home/static/media/cat.5b889bb8.png",
+    "static/media/App.css": "/hassanfouad/home/static/media/labtop.50feb195.jpg",
+    "static/media/me.jpg": "/hassanfouad/home/static/media/me.c5409773.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4757494.js",
-    "static/css/2.907f042e.chunk.css",
+    "static/js/runtime-main.284524eb.js",
+    "static/css/2.0f845953.chunk.css",
     "static/js/2.a8a9ebca.chunk.js",
-    "static/css/main.4239772c.chunk.css",
-    "static/js/main.05c3edb0.chunk.js"
+    "static/css/main.628f5bc5.chunk.css",
+    "static/js/main.314964dc.chunk.js"
   ]
 }
