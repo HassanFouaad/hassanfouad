@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/hassanfouad/static/css/main.4239772c.chunk.css",
-    "main.js": "/hassanfouad/static/js/main.e0e5cd16.chunk.js",
-    "main.js.map": "/hassanfouad/static/js/main.e0e5cd16.chunk.js.map",
+    "main.css": "/hassanfouad/static/css/main.646b7fdb.chunk.css",
+    "main.js": "/hassanfouad/static/js/main.43b1615e.chunk.js",
+    "main.js.map": "/hassanfouad/static/js/main.43b1615e.chunk.js.map",
     "runtime-main.js": "/hassanfouad/static/js/runtime-main.a4757494.js",
     "runtime-main.js.map": "/hassanfouad/static/js/runtime-main.a4757494.js.map",
     "static/css/2.907f042e.chunk.css": "/hassanfouad/static/css/2.907f042e.chunk.css",
-    "static/js/2.7caee8ac.chunk.js": "/hassanfouad/static/js/2.7caee8ac.chunk.js",
-    "static/js/2.7caee8ac.chunk.js.map": "/hassanfouad/static/js/2.7caee8ac.chunk.js.map",
+    "static/js/2.ebf3a09c.chunk.js": "/hassanfouad/static/js/2.ebf3a09c.chunk.js",
+    "static/js/2.ebf3a09c.chunk.js.map": "/hassanfouad/static/js/2.ebf3a09c.chunk.js.map",
     "index.html": "/hassanfouad/index.html",
-    "precache-manifest.2a4fa75a78905bb5197a21eb417b97e8.js": "/hassanfouad/precache-manifest.2a4fa75a78905bb5197a21eb417b97e8.js",
+    "precache-manifest.4b862d1bd439c1817a21a29f9019b24f.js": "/hassanfouad/precache-manifest.4b862d1bd439c1817a21a29f9019b24f.js",
     "service-worker.js": "/hassanfouad/service-worker.js",
     "static/css/2.907f042e.chunk.css.map": "/hassanfouad/static/css/2.907f042e.chunk.css.map",
-    "static/css/main.4239772c.chunk.css.map": "/hassanfouad/static/css/main.4239772c.chunk.css.map",
-    "static/js/2.7caee8ac.chunk.js.LICENSE.txt": "/hassanfouad/static/js/2.7caee8ac.chunk.js.LICENSE.txt",
+    "static/css/main.646b7fdb.chunk.css.map": "/hassanfouad/static/css/main.646b7fdb.chunk.css.map",
+    "static/js/2.ebf3a09c.chunk.js.LICENSE.txt": "/hassanfouad/static/js/2.ebf3a09c.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/hassanfouad/static/media/outline-icons.ef60a4f6.woff",
     "static/media/cat.png": "/hassanfouad/static/media/cat.5b889bb8.png",
     "static/media/App.css": "/hassanfouad/static/media/labtop.50feb195.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.a4757494.js",
     "static/css/2.907f042e.chunk.css",
-    "static/js/2.7caee8ac.chunk.js",
-    "static/css/main.4239772c.chunk.css",
-    "static/js/main.e0e5cd16.chunk.js"
+    "static/js/2.ebf3a09c.chunk.js",
+    "static/css/main.646b7fdb.chunk.css",
+    "static/js/main.43b1615e.chunk.js"
   ]
 }
