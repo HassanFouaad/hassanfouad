@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e0b41a9417dd623da1170ead62ca9a8",
+    "revision": "912f5b2237775f8dabe80b18421ae1b0",
     "url": "/hassanfouad/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hassanfouad/static/css/2.907f042e.chunk.css"
   },
   {
-    "revision": "65362dcd2fe692483c47",
-    "url": "/hassanfouad/static/css/main.646b7fdb.chunk.css"
+    "revision": "dbd1dc2ea94f7fd5c47a",
+    "url": "/hassanfouad/static/css/main.9badf0d2.chunk.css"
   },
   {
     "revision": "8f523c78aca6761d2369",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hassanfouad/static/js/2.ebf3a09c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65362dcd2fe692483c47",
-    "url": "/hassanfouad/static/js/main.43b1615e.chunk.js"
+    "revision": "dbd1dc2ea94f7fd5c47a",
+    "url": "/hassanfouad/static/js/main.300c4851.chunk.js"
   },
   {
     "revision": "4ec5026a55a1d6ae4bd8",
