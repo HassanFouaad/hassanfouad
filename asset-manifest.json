@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/hassanfouad/static/css/main.9badf0d2.chunk.css",
-    "main.js": "/hassanfouad/static/js/main.300c4851.chunk.js",
-    "main.js.map": "/hassanfouad/static/js/main.300c4851.chunk.js.map",
+    "main.css": "/hassanfouad/static/css/main.39a97e2f.chunk.css",
+    "main.js": "/hassanfouad/static/js/main.dd506c84.chunk.js",
+    "main.js.map": "/hassanfouad/static/js/main.dd506c84.chunk.js.map",
     "runtime-main.js": "/hassanfouad/static/js/runtime-main.a4757494.js",
     "runtime-main.js.map": "/hassanfouad/static/js/runtime-main.a4757494.js.map",
-    "static/css/2.907f042e.chunk.css": "/hassanfouad/static/css/2.907f042e.chunk.css",
-    "static/js/2.ebf3a09c.chunk.js": "/hassanfouad/static/js/2.ebf3a09c.chunk.js",
-    "static/js/2.ebf3a09c.chunk.js.map": "/hassanfouad/static/js/2.ebf3a09c.chunk.js.map",
+    "static/css/2.0ad1723b.chunk.css": "/hassanfouad/static/css/2.0ad1723b.chunk.css",
+    "static/js/2.2e6597fa.chunk.js": "/hassanfouad/static/js/2.2e6597fa.chunk.js",
+    "static/js/2.2e6597fa.chunk.js.map": "/hassanfouad/static/js/2.2e6597fa.chunk.js.map",
     "index.html": "/hassanfouad/index.html",
-    "precache-manifest.4f074d643cfe8fb23d19da30b8402a92.js": "/hassanfouad/precache-manifest.4f074d643cfe8fb23d19da30b8402a92.js",
+    "precache-manifest.ef8d1fce92b23be23100c2ce77331558.js": "/hassanfouad/precache-manifest.ef8d1fce92b23be23100c2ce77331558.js",
     "service-worker.js": "/hassanfouad/service-worker.js",
-    "static/css/2.907f042e.chunk.css.map": "/hassanfouad/static/css/2.907f042e.chunk.css.map",
-    "static/css/main.9badf0d2.chunk.css.map": "/hassanfouad/static/css/main.9badf0d2.chunk.css.map",
-    "static/js/2.ebf3a09c.chunk.js.LICENSE.txt": "/hassanfouad/static/js/2.ebf3a09c.chunk.js.LICENSE.txt",
+    "static/css/2.0ad1723b.chunk.css.map": "/hassanfouad/static/css/2.0ad1723b.chunk.css.map",
+    "static/css/main.39a97e2f.chunk.css.map": "/hassanfouad/static/css/main.39a97e2f.chunk.css.map",
+    "static/js/2.2e6597fa.chunk.js.LICENSE.txt": "/hassanfouad/static/js/2.2e6597fa.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/hassanfouad/static/media/outline-icons.ef60a4f6.woff",
     "static/media/cat.png": "/hassanfouad/static/media/cat.5b889bb8.png",
-    "static/media/App.css": "/hassanfouad/static/media/labtop.50feb195.jpg",
+    "static/media/labtop.jpg": "/hassanfouad/static/media/labtop.50feb195.jpg",
     "static/media/me.jpg": "/hassanfouad/static/media/me.c5409773.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a4757494.js",
-    "static/css/2.907f042e.chunk.css",
-    "static/js/2.ebf3a09c.chunk.js",
-    "static/css/main.9badf0d2.chunk.css",
-    "static/js/main.300c4851.chunk.js"
+    "static/css/2.0ad1723b.chunk.css",
+    "static/js/2.2e6597fa.chunk.js",
+    "static/css/main.39a97e2f.chunk.css",
+    "static/js/main.dd506c84.chunk.js"
   ]
 }
